@@ -1,7 +1,6 @@
 package com.example.commissioncalculator.controller;
 
 import com.example.commissioncalculator.model.CommissionResponse;
-import com.example.commissioncalculator.model.RatesParser;
 import com.example.commissioncalculator.model.Transaction;
 import com.example.commissioncalculator.model.TransactionDto;
 import com.example.commissioncalculator.service.CommissionCalculatorService;
